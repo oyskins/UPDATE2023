@@ -1,0 +1,466 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Yandere Chan",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/yandere-chan.png",
+      "view_skin":"https://lh3.googleusercontent.com/zLecX3dptngvByD0iqkH9WowomMNf0wgWUgitMHsRzCFv4297M7ee7l_jjRFutqAuzp0-aYUiuzCKjbqDAF0"
+    },
+    {
+      "id":2,
+      "name_skin":"Akane Student Council",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/akane-student-council.png",
+      "view_skin":"https://lh3.googleusercontent.com/zQXd42Ky4qWw39d_OAELHZ2w0UEPIxhNccPQI0NCXwMddQckxarWmXODVh66pqUaia5mEhU6War40Kd3FMgv"
+    },
+    {
+      "id":3,
+      "name_skin":"Nemesis Chan",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/nemesis-chan.png",
+      "view_skin":"https://lh3.googleusercontent.com/cZvjcNT5q9yGS4-xnIsHBMOcwqUkW84pDxGHeam7vDRo88m-3tqKaWuJ2M-loslIm_rCsrJZ6aJELIRKt_EXkA"
+    },
+    {
+      "id":4,
+      "name_skin":"Osana Najimi",
+      "skin_url":"https://ia601407.us.archive.org/19/items/yandere-simulator/yandere-simulator/osana-najimi.png",
+      "view_skin":"https://lh3.googleusercontent.com/-INdG40b3deoH8VMFJlo9a6QEv5ikHRm5m0XRn2WZ1QL7StoWb3k57Pr_ocdO-6MfvYdbBizjijX5-d03yZTov4"
+    },
+    {
+      "id":5,
+      "name_skin":"Oka Ruto",
+      "skin_url":"https://ia601407.us.archive.org/19/items/yandere-simulator/yandere-simulator/oka-ruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/PO9B7SzVwMa6VF6rshEyd31s2l0m7qg5I6dFTd5TpRH_oTuX5kvtN5FlRcGBr3XrJtM9pYsCIay0FCqEfGwM9yc"
+    },
+    {
+      "id":6,
+      "name_skin":"Megami Saikou",
+      "skin_url":"https://ia601407.us.archive.org/19/items/yandere-simulator/yandere-simulator/megami-saikou.png",
+      "view_skin":"https://lh3.googleusercontent.com/mw0nH_R6MMUL5SPrrHyY6j9W-x2lcZM3M1RAEwlYn7zgMrGGo7TPFj-jaz2FBf42R2qu3XAYYemrLAgRFNGltA"
+    },
+    {
+      "id":7,
+      "name_skin":"Ryoba Aishi Young",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/ryoba-aishi-young.pngg",
+      "view_skin":"https://lh3.googleusercontent.com/0P4CtNyNYgVkSEx2NQNzZeOiMUq9vq2RxH_eO-wTT7eRMIhZVNPVRIlciITcyeqqGGh4o-N3vg50By7ZbjIZsgs"
+    },
+    {
+      "id":8,
+      "name_skin":"Kokona Haruka",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/kokona-haruka.png",
+      "view_skin":"https://lh3.googleusercontent.com/KIx9HYF62vaqTABmVpxe5uo0VCg-4JMllObp-KlLq2EZebiUV2h9srWX1PLLCEmmd8nWeBhOYBdsvbLcL0_icM0"
+    },
+    {
+      "id":9,
+      "name_skin":"Yandere Simulator",
+      "skin_url":"https://archive.org/download/yandere-simulator/yandere-simulator/yandere-simulator.png",
+      "view_skin":"https://lh3.googleusercontent.com/YFew-lUdVKElEBPz_0BnEVFLc0Hv4PvdBasGEB6d7fxNPA6TJ3d1d3kBohJospCaKvCONjU9KgMmRGrn5TKHxw"
+    },
+    {
+      "id":10,
+      "name_skin":"Yandere",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/yandere.png",
+      "view_skin":"https://lh3.googleusercontent.com/4ZYDF1wRsTvKjS05dKZ0g8Dn6i_c6eDeCor8VQVKZyqXc6sR6EiPUmAFIQc7Gsvb_DpzV0vYcS3-nfSPaDoE"
+    },
+    {
+      "id":11,
+      "name_skin":"Insane Anyano",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/insane-anyano.png",
+      "view_skin":"https://lh3.googleusercontent.com/jhlRoeyOW392BFZwJnd85ISj6sHqyZK3_EKxhW45zBhUlNGGmNgfyMtIQo_1gt8-TwzO-CzBazz3k8w5xxawfw"
+    },
+    {
+      "id":12,
+      "name_skin":"Eric Yandere Sim",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/eric-yandere-sim.png",
+      "view_skin":"https://lh3.googleusercontent.com/CrEbQ2hcoQoS_Lc1BG3VXsVnfKHPRZJRjHb7LaJ-segTOTD2u3BRuSy41DKLwoV-6MnMRQpE0zTeAf5_QVLs"
+    },
+    {
+      "id":13,
+      "name_skin":"Spawn Anime Black",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/spawn-anime.png",
+      "view_skin":"https://lh3.googleusercontent.com/YoSqiXazaue2-eEsqQSi7lStTU_K58USZnsZjWJWSTMwN80TYZqTvS4q8oIQ1PgxFsa-a4CKt08WC5zI12Qm"
+    },
+    {
+      "id":14,
+      "name_skin":"That School girl",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/that-school.png",
+      "view_skin":"https://lh3.googleusercontent.com/kCDFTsj15JkZ0C83jUMTke4ynaIWQVPmKS3l9wJsXi7VejuLTWKs-tu5YUopq0vVEafAB245-pcCVmAq-vqQ"
+    },
+    {
+      "id":15,
+      "name_skin":"Tokuko Kitagawa",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/tokuk-kitagawa.png",
+      "view_skin":"https://lh3.googleusercontent.com/8kagNp0mwZWuzLp3PTyDi6jw7wS-nUxcD3l3JwvWKFf5mgLgpe4ceSU81ZBcdaDdpBvejWa_tZmqb5BAwxzuKWQ"
+    },
+    {
+      "id":16,
+      "name_skin":"Ldshadowlady",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/ldshadowlady.png",
+      "view_skin":"https://lh3.googleusercontent.com/tpvE2Qx8uORIdUSmMtM83gmbcmdCtXhNjrvsg7xP3ilUH56oI4tmtm6x8n3dX6okLOw5K1eDsKvLxi3qZM2p"
+    },
+    {
+      "id":17,
+      "name_skin":"Yandere Simulator Decepticon",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/decepticon.png",
+      "view_skin":"https://lh3.googleusercontent.com/fI1mR1ehZlx7Fqvy7X3ciHC_dhgVfurHSLBxVWqeNU-plxluELdm2EkiyPgEOdOtpy_FUF_NFTLZdaYGSLIxx0o"
+    },
+    {
+      "id":18,
+      "name_skin":"Chan Syano Aishi",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/chan-ayano-aishi.png",
+      "view_skin":"https://lh3.googleusercontent.com/XUwT41GMt_2IynDtbSjPa1jEPPG4VtvqOR2K1ZXTLFcXkPS3VuXh8aGnZY9HaqihFv6p4fHAWU0F3ysBiMGi"
+    },
+    {
+      "id":19,
+      "name_skin":"Shiromi Toraioshi",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/shirom-toraioshi.png",
+      "view_skin":"https://lh3.googleusercontent.com/1BUA1gkCAnLSj-sHaj08uxfON-coAkyT_WEDLTWDfe4nilaBdhsZ7llugGc-2O7iUCn9HHnDhO1UoE36HngB3A"
+    },
+    {
+      "id":20,
+      "name_skin":"Musume Ronshaku",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/musume-ronshaku.png",
+      "view_skin":"https://lh3.googleusercontent.com/Ym_zJ38EMwki9hv-JGVaZal4V5irY38UcCC9-I17kk1jfeH-RZqX8v6_tAmYfy937czunMPulZRWODJ8sixp"
+    },
+    {
+      "id":21,
+      "name_skin":"Horuda Pures",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/horuda_pures.png",
+      "view_skin":"https://lh3.googleusercontent.com/PGr0kZbhrvUYL7AjMEfFTcG1vBzRB3eY2MwLSLh28k6tNnP_0FdHhWBK4AHacjId0dXIgKG5S2P_19YJcvGAU6g"
+    },
+    {
+      "id":22,
+      "name_skin":"Yandere Simulator Olivia",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/yandere-simulator-olivia.png",
+      "view_skin":"https://lh3.googleusercontent.com/SFBsTshJnL3lpHvmNf3QzS_tu0dsjULW00l-Iq7O0pAYQ-XF-PCSmOrhE6TqrMpO7u9qmcVOiy60gJxJpsbKqD4"
+    },
+    {
+      "id":23,
+      "name_skin":"Yandere Simulator Girl",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/yandere-simulator-girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/0MRsMCa3ath76kbeLQZyU9D9BE20JuxNBM_BQuTyyxlAKbIlFAgKn-SyQT7Yy7zKR3CnF_aBISXhctXNrDZCBA"
+    },
+    {
+      "id":24,
+      "name_skin":"Yandere Simulator Cute",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/yandere-simulator-cute.png",
+      "view_skin":"https://lh3.googleusercontent.com/rTd7-ytJF7GFe1QKBLK66UEBctYPLa4QZBfhmu0nQT7Dy1oSmeeH_O7B4d3Rgfyx0xwR_hHTeS_zVlrgNzGy"
+    },
+    {
+      "id":25,
+      "name_skin":"Sakane Namika",
+      "skin_url":"https://ia601407.us.archive.org/19/items/yandere-simulator/yandere-simulator/sakane-namika.png",
+      "view_skin":"https://lh3.googleusercontent.com/77p-UcJIYHJ9EoDtas7Owj9pAaFzGH6PkpV7wMNmAg0IZ_e3DkrhZ8mzwsEyDRbwKOzlqSLyD2dkCV_GrMlrmg"
+    },
+    {
+      "id":26,
+      "name_skin":"Mishel",
+      "skin_url":"https://ia601407.us.archive.org/19/items/yandere-simulator/yandere-simulator/mishel.png",
+      "view_skin":"https://lh3.googleusercontent.com/lxhYGYsoDxn6p8dK2x_OhcI-89vuVMpWpKV8nUT7t4VopNFMZWNUIEKpPiFL2rF2K_dtlHSTICB8xpJeaxhuRg"
+    },
+    {
+      "id":27,
+      "name_skin":"Fun Chan",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/fun-chan.png",
+      "view_skin":"https://lh3.googleusercontent.com/MhL6M7i1ZzBhmWQ1Djd8KEydl0pzW-uOPnAcCos88Xbehi67NHcAFBaz18fXSm69lvIfW0qMqqNkgA7eAmCzDg"
+    },
+    {
+      "id":28,
+      "name_skin":"Ashton Kun",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/ashton-kun.png",
+      "view_skin":"https://lh3.googleusercontent.com/uB0IN7jUZ-cewzlTI46_YA3k5e6g5xmQBDEYmDA43cyU5gyqgPSFs2tktKmVFhj2o3vrGcYpXXfnQ9ciZnrCM-M"
+    },
+    {
+      "id":29,
+      "name_skin":"Iinkyu Basu",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/inkyu-basu.png",
+      "view_skin":"https://lh3.googleusercontent.com/FbSoNa9BVshEGq21zTrSzg54ARHUX5p3UmnuZrnL5On523VYqsbQTB4rOZgj_8_hk8JezKR9c3PIkjc834jE9w"
+    },
+    {
+      "id":30,
+      "name_skin":"Kizana Yandere simulator",
+      "skin_url":"https://ia801407.us.archive.org/19/items/yandere-simulator/yandere-simulator/kizana-yandere.png",
+      "view_skin":"https://lh3.googleusercontent.com/IxOTJf8uwa1d0nkGVVQYyXd6l42QV_vk7nwqu66yUo7edlHgVSctLZ28Kjpcpp29w7EDGC1sOe2-3F08ov6U"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":0,
+      "name_add":"Laser Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Number Blocks",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"The Imposter",
+      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Furniture",
+      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Actual Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chickens",
+      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubicals Tower",
+      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":7,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":8,
+      "name_map":"Lucky Blocks Race",
+      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":9,
+      "name_map":"Sky Wars",
+      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":10,
+      "name_map":"Zombie slayer",
+      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	    {
+      "id":11,
+      "name_map":"OneBlock Maps",
+      "map_url":"https://archive.org/download/asepudindev/1block.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/1block.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/ic.html"
+    },
+	{
+      "id":12,
+      "name_map":"Dream Maps",
+      "map_url":"https://archive.org/download/asepudindev/2dream.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/2dream.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/ic.html"
+    },
+	{
+      "id":13,
+      "name_map":"StoneFactory Maps",
+      "map_url":"https://archive.org/download/asepudindev/3stonefactory.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/3stonefactory.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/ic.html"
+    },
+	{
+      "id":14,
+      "name_map":"LukyBlock Maps",
+      "map_url":"https://archive.org/download/asepudindev/4lukyblock.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/4lukyblock.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/ic.html"
+    },
+	{
+      "id":15,
+      "name_map":"ZombieGun Maps",
+      "map_url":"https://archive.org/download/asepudindev/5zombiegun.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/5zombiegun.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/ic.html"
+    },
+	{
+      "id":16,
+      "name_map":"ScpDoom Maps",
+      "map_url":"https://archive.org/download/asepudindev/6scpdoom.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/6scpdoom.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/ic.html"
+    },
+	{
+      "id":17,
+      "name_map":"SkyFactory Maps",
+      "map_url":"https://archive.org/download/asepudindev/7skyfactory.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/7skyfactory.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/ic.html"
+    },
+	{
+      "id":18,
+      "name_map":"StarkMansion Maps",
+      "map_url":"https://archive.org/download/asepudindev/8starkmansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/8starkmansion.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/ic.html"
+    },
+	{
+      "id":19,
+      "name_map":"Mansion Maps",
+      "map_url":"https://archive.org/download/asepudindev/9mansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/9mansion.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/ic.html"
+    },
+	{
+      "id":20,
+      "name_map":"City Maps",
+      "map_url":"https://archive.org/download/MapBaru/10citymaps.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.html"
+    },
+	{
+      "id":21,
+      "name_map":"Horror Maps",
+      "map_url":"https://archive.org/download/MapBaru/18horrormaps.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.html"
+    },
+	{
+      "id":22,
+      "name_map":"One Blockskyblock Map",
+      "map_url":"https://archive.org/download/MapBaru/26oneblockskyblock.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.html"
+    },
+	{
+      "id":23,
+      "name_map":"Pink Mansion Map",
+      "map_url":"https://archive.org/download/MapBaru/27pinkmansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.html"
+    },
+		{
+      "id":24,
+      "name_map":"Security Camera Mod",
+      "map_url":"https://archive.org/download/MapBaru/36securitycamera.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.html"
+    }
+  ]
+}
