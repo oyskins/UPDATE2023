@@ -1,0 +1,376 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Fall Guys Red",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/1.%20FallGuys-Red.png",
+      "view_skin":"https://lh3.googleusercontent.com/bdr1lpYDIejQ4YjI4DPbbUgT03a4KK1bUxoKPTDTwlcNb69dka9l4rKxSoWPf5lyEcT2hQCgeRN0sp705h6y"
+    },
+    {
+      "id":2,
+      "name_skin":"Fall Guys Pigeon",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/2.%20FallGuys-Pigeon.png",
+      "view_skin":"https://lh3.googleusercontent.com/uvX0IIkj_BBo6VW05osLv1REe2haz2Qc6J9kIul_sy7qL9xptABjUnPFDbQl_4WUxAiVrEdfUuCGlcMylwGX"
+    },
+    {
+      "id":3,
+      "name_skin":"Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/3.%20Fall-Guys.png",
+      "view_skin":"https://lh3.googleusercontent.com/77OTtt3fxHQ6w-qXdhKaGZnDeeuua8HVvkbqUiltLM9gBUOGAFkJjpPnvcxALPVFPvj_ty53QGzgzstfR9zD"
+    },
+    {
+      "id":4,
+      "name_skin":"Fall Guys Pollo",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/4.%20fallGuys-Pollo.png",
+      "view_skin":"https://lh3.googleusercontent.com/Q-SIbz-KeT1SHxdWCnWHam_WO7eJgM0ENAtd3bI6f3YsMci5wC3jDl0MDPUgVRQHuR2SFLPqXtUGgxrQZLvoNA"
+    },
+    {
+      "id":5,
+      "name_skin":"Ninja Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/5.%20FallGuys-Ninja.png",
+      "view_skin":"https://lh3.googleusercontent.com/lYQy7odd3PBHVWADeHUgUupXbk0j91KO4SSg_CW8uBgrUn8gZKH3xE5qYHPcRh-88aMIqtUDpuOKLFO9QkOZ"
+    },
+    {
+      "id":6,
+      "name_skin":"Fall Guys Blaze",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/6.%20fallGuys-Blaze.png",
+      "view_skin":"https://lh3.googleusercontent.com/_dnNOmLcvAZEMOV9IWJFyp-ho55BcQuPbdxIG4cNARh_VPArSmj74qGqdgCyuOXtoGMgvzuzUb5m7s6pODA7"
+    },
+    {
+      "id":7,
+      "name_skin":"Fall Guys Steve",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/7.%20FallGuys-Steve.png",
+      "view_skin":"https://lh3.googleusercontent.com/kirl2SYGDDh19ck894jSl--tjCnioh1tnRVC2uQTwINYyn-DYfER7lxpVSVn9v0Rwf2cFMGOJ9BuANTGfbKKFSY"
+    },
+    {
+      "id":8,
+      "name_skin":"Fall Guys Winnie",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/8.%20Fallguys-Winnie.png",
+      "view_skin":"https://lh3.googleusercontent.com/WTKUWizBHuYODmattKDUNVz_Xy00QFswFCaVH7t6CItrBy2FH6U23F1iRIII7oZrZyUXjtg928LM5-ZY4OjCUg"
+    },
+    {
+      "id":9,
+      "name_skin":"Fall Guys Ananas",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/9.%20FallGuys-Ananas.png",
+      "view_skin":"https://lh3.googleusercontent.com/8-HXE8xcTuDNL18tB13i8LBySc1SC9hA-YMYRF7Pkx5E7Wz-ak_4PghK66A3yIniuSmxL4DElgFqvXDtVwwD"
+    },
+    {
+      "id":10,
+      "name_skin":"Fall Guys Hot Dog",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/10.%20FallGuys-Hotdog.png",
+      "view_skin":"https://lh3.googleusercontent.com/d0iPbZ6De5H0IlDTrbFLX1zvHvXp8iz9Zv6FM5fOiSMh_eoaOj3PWYAkq4uZS6vrfskuP0z8B4ZiIomra0P7WC4"
+    },
+    {
+      "id":11,
+      "name_skin":"Fall Guys EXE Boi",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/11.%20FallGuys-Exe.png",
+      "view_skin":"https://lh3.googleusercontent.com/eJZPEFVUXPM66D1cIEVeRDp8bEWY6WmnXBOfIp1X-BcU60kGax_k7S8HHxYpmEfOnK7jQYM1fSLX_KVxUPhr"
+    },
+    {
+      "id":12,
+      "name_skin":"Ropa Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/12.FallGuys-Ropa.png",
+      "view_skin":"https://lh3.googleusercontent.com/CIcPpV4uQ368PwcXea1GNASL9-UBpMH46qejSnorCKvJ7XwCAMJuSj0a-GoA_6YKumkeQKrj6jHBf2YzdHmndNU"
+    },
+    {
+      "id":13,
+      "name_skin":"Fall Guys Pirate",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/13. FallGuys-Pirate.png",
+      "view_skin":"https://lh3.googleusercontent.com/xsIBrYfj_x9WTSkILgPGkkQ251PS_CKr6cUZyTEvV3sZEv-sVYrZ4Hd3cBr-d_znnZwHmLqJEaRjLyYOJb5JKw"
+    },
+    {
+      "id":14,
+      "name_skin":"Fall Guys Cactus",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/14.%20FallGuys-Cactus.png",
+      "view_skin":"https://lh3.googleusercontent.com/lo5P0YNjqfKV3pgaAgmmjocOFCDsXantbz2P7N9e7N1LKDTxzxZUwXePR3kmJoudeSDMbd95en3qEJUuIEJEzOs"
+    },
+    {
+      "id":15,
+      "name_skin":"Fall Guys Blue",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/15.%20FallGuys-Blue.png",
+      "view_skin":"https://lh3.googleusercontent.com/HU6g5fLnE545w0ZLmljHy6CuHklW8N1CGFvklbVOa1COeASGS2EGKsxH6ntAhEcV5oiuawcdTb3As2WmcBl3gQ"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":0,
+      "name_add":"Laser Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Number Blocks",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"The Imposter",
+      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Furniture",
+      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Actual Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chickens",
+      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubicals Tower",
+      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":7,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":8,
+      "name_map":"Lucky Blocks Race",
+      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":9,
+      "name_map":"Sky Wars",
+      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":10,
+      "name_map":"Zombie slayer",
+      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	    {
+      "id":11,
+      "name_map":"OneBlock Maps",
+      "map_url":"https://archive.org/download/asepudindev/1block.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/1block.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/ic.html"
+    },
+	{
+      "id":12,
+      "name_map":"Dream Maps",
+      "map_url":"https://archive.org/download/asepudindev/2dream.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/2dream.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/ic.html"
+    },
+	{
+      "id":13,
+      "name_map":"StoneFactory Maps",
+      "map_url":"https://archive.org/download/asepudindev/3stonefactory.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/3stonefactory.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/ic.html"
+    },
+	{
+      "id":14,
+      "name_map":"LukyBlock Maps",
+      "map_url":"https://archive.org/download/asepudindev/4lukyblock.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/4lukyblock.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/ic.html"
+    },
+	{
+      "id":15,
+      "name_map":"ZombieGun Maps",
+      "map_url":"https://archive.org/download/asepudindev/5zombiegun.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/5zombiegun.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/ic.html"
+    },
+	{
+      "id":16,
+      "name_map":"ScpDoom Maps",
+      "map_url":"https://archive.org/download/asepudindev/6scpdoom.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/6scpdoom.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/ic.html"
+    },
+	{
+      "id":17,
+      "name_map":"SkyFactory Maps",
+      "map_url":"https://archive.org/download/asepudindev/7skyfactory.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/7skyfactory.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/ic.html"
+    },
+	{
+      "id":18,
+      "name_map":"StarkMansion Maps",
+      "map_url":"https://archive.org/download/asepudindev/8starkmansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/8starkmansion.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/ic.html"
+    },
+	{
+      "id":19,
+      "name_map":"Mansion Maps",
+      "map_url":"https://archive.org/download/asepudindev/9mansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/9mansion.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/ic.html"
+    },
+	{
+      "id":20,
+      "name_map":"City Maps",
+      "map_url":"https://archive.org/download/MapBaru/10citymaps.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.html"
+    },
+	{
+      "id":21,
+      "name_map":"Horror Maps",
+      "map_url":"https://archive.org/download/MapBaru/18horrormaps.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.html"
+    },
+	{
+      "id":22,
+      "name_map":"One Blockskyblock Map",
+      "map_url":"https://archive.org/download/MapBaru/26oneblockskyblock.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.html"
+    },
+	{
+      "id":23,
+      "name_map":"Pink Mansion Map",
+      "map_url":"https://archive.org/download/MapBaru/27pinkmansion.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.html"
+    },
+		{
+      "id":24,
+      "name_map":"Security Camera Mod",
+      "map_url":"https://archive.org/download/MapBaru/36securitycamera.zip",
+      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.png",
+      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.html"
+    }
+  ]
+}
