@@ -1,0 +1,278 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "name_skin":"Ben 10",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/aluhi1m6MT7xPUNMye9efszP5Yg4H0o3Uu5Bf_1Wn7esVvCpeLPplcZ71sYIRqTFh3--5C54p_4Ci9lreNSh5A"
+  },
+  {
+    "id":2,
+    "name_skin":"Ben 10 Heatblast",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-heatblast.png",
+    "view_skin":"https://lh3.googleusercontent.com/MglRSm0eJlH3h_pBEdYQOB5kpXpk514WWPZgtBdl03i9MvA6aDawlRStLyU49h4MvTlWk2lnptkTnSb-wJTRWA"
+  },
+  {
+    "id":3,
+    "name_skin":"Ben 10 omniverse",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-omniverse.png",
+    "view_skin":"https://lh3.googleusercontent.com/ktaCPjTpP_jJv_yO46mHoSrANoRXKWq_bBbRtq-jcYMSYntvy4QLem_udTE38Tnmqz_6eYeb0OaBNVMuOWQv"
+  },
+  {
+    "id":4,
+    "name_skin":"Ben 10 Robin Hood",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/robin-hood-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/ejHX452xp_sRAgy8O9WAwY-ecMgU7MGPde4RZJl9NQK0GAhcfG7OAMToO0oC2tvBJWCEVm-4THzK4jebOpjfnzg"
+  },
+  {
+    "id":5,
+    "name_skin":"Ben 10 Canobolt",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/canobolt-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/8qFaLLwQgGLdvNACACPtUCSo4EbiklgMj30lbQdNvVL1iW1EnhEgPxn7j21xvXOkinFcAL6ZbH2FRkBUdRnLrQ"
+  },
+  {
+    "id":6,
+    "name_skin":"Ben 10 Hacker",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/4miZYRXTilADC2Z2sRW9JSamvP26PNcGSXruSbrJmNCidTR9q6aYOVTjx6-2KItkf8jSfhsatDLigoAbgIrfO1o"
+  },
+  {
+    "id":7,
+    "name_skin":"Ben 10 Hama omni",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-chama-omni.png",
+    "view_skin":"https://lh3.googleusercontent.com/dr5VbbofSyIv7b9g35L03_mRl4bP8u2iosIPvNBcTJJHWRkMQjryC5TT_5UKhhNb2b_EGO2ZFGNi6U9RKa69"
+  },
+  {
+    "id":8,
+    "name_skin":"Ben 10 Omnitrix",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-omnitrix.png",
+    "view_skin":"https://lh3.googleusercontent.com/Hbef3-9nGlk4T1BH66LZqFgqP8uab_FvmXY6J__1Km4ZB-cUrC7YB079krQfoM8BDncu4p7NY-1Sq0gGD4hAEw"
+  },
+  {
+    "id":9,
+    "name_skin":"Ben 10 Reverso",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-reverso.png",
+    "view_skin":"https://lh3.googleusercontent.com/EdJWsXRBF4RrKPNNjkD7xBMPOGoh5wmDT-mtXLxi-ZP_dWugbaPUULUAqMoGNkNXZzruAMBJjHOq-hCX4DcclQ"
+  },
+  {
+    "id":10,
+    "name_skin":"Shock Rock Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/shock-rock-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/KSwxuHwdnJvp2Al5VKAOzPooEW9NDbIMS9iB6aXnX5MQRBKxtUU2L8meWNysxvMlmFP1h13ji8dCo4NXAe_4KA"
+  },
+  {
+    "id":11,
+    "name_skin":"Ben 10 Rath",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ben-10-rath.png",
+    "view_skin":"https://lh3.googleusercontent.com/XrJm74sxRlZh_W1ruwuaR8ywhDZbFR_jlTNnkocypeQNTKxMpTfXXjPJeaXS6c-NEyabMvszkynyv2hGZRpa"
+  },
+  {
+    "id":12,
+    "name_skin":"Alien Ben 10",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/alien-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/gHCG-S6EkLublxsAzhFab4mpFTVL85BaMjVEK0t8Lbc5VGFZGlWUWLy-wTrQdlOXPkLXWkcUz0fDp9S4O2oSVG0"
+  },
+  {
+    "id":13,
+    "name_skin":"Way Big Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/way-big-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/AV1c8wzGGVvZdyKEegNOEDP6_gFBFXSEtk70fFshqETP3cPbag8y1s2RoR1dIss_kjdARl1ayl9A7HZAAV8MXaw"
+  },
+  {
+    "id":14,
+    "name_skin":"Luiz Ben 10 Utrate",
+    "skin_url":"https://ia601401.us.archive.org/20/items/way-big-ben-10/ben-10/luiz-ben-10-utrate.png",
+    "view_skin":"https://lh3.googleusercontent.com/Diwp--etGpFXyfbBnAB3uw0ddhdrYnIpdWjQ3Lnk4TX6lSsGKcraPkH9rWmFLOO4apK8M1pg5QSQgdSpg4zcYJc"
+  },
+  {
+    "id":15,
+    "name_skin":"Ultra Ben 10",
+    "skin_url":"https://ia801401.us.archive.org/20/items/way-big-ben-10/ben-10/ultra-ben-10.png",
+    "view_skin":"https://lh3.googleusercontent.com/Q1r6MPiKLyeUqkbj5aLVMRNasYTllcEM5eg6jt6xIiwtX29hs-YgeCDmsimLfxhSdKBgdsnKsGN5uz3JfdaV"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":0,
+      "name_add":"Laser Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Number Blocks",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"The Imposter",
+      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Furniture",
+      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Actual Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chickens",
+      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubicals Tower",
+      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":7,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":8,
+      "name_map":"Lucky Blocks Race",
+      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":9,
+      "name_map":"Sky Wars",
+      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":10,
+      "name_map":"Zombie slayer",
+      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
