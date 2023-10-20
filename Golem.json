@@ -1,0 +1,308 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/1_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/pLGaWbBS2bzG0Uv-VaNQ7LJ2M2XGT_nSOP4N4u4Z2zqlKxXLqLKuaKpu94GEdUVDsLahm_jmIFkd6u-FXiMgbYA"
+    },
+    {
+      "id":2,
+      "name_skin":"Iron Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/2_iron_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/9E-V-eVYDJWvA3wEpzV6kVFrbXO7UEFmcnbfrpQmukmCpo5ksEg1PBjrWK2ECHSwg8-kqrPbaiatL0JHJbWKBg"
+    },
+    {
+      "id":3,
+      "name_skin":"Golem-Uwu",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/3_golam_uwu.png",
+      "view_skin":"https://lh3.googleusercontent.com/5S8dax6pLnqilV8ofvHxrY8IId7K5G0H035xmam1fuGpgWMFWVXjJgdvBToexW0yCOUuanVmwQumC3ltgr5V"
+    },
+    {
+      "id":4,
+      "name_skin":"Mc Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/4_mc_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/rGRuEyyWHMFlwE981J6eEV995_X4M9dVgLekS37mvwAfvz3WVG3phMYMJNOJYTRm7yb0-HjTzN9fooudUaYh9A"
+    },
+    {
+      "id":5,
+      "name_skin":"Ging Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/5_diogoswag_golam_inacabado.png",
+      "view_skin":"https://lh3.googleusercontent.com/xdmlFmTZ6pqBZxFioeT1qPVV42-RxE9-rhsKaX3yfGAV_2Zp63wUGZ-y3J8rvb758GgMHk8S_c5b6HFL2J5d"
+    },
+    {
+      "id":6,
+      "name_skin":"Diogoswag Golem Inacabado",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/6_hemsy_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/VSuJ6c0TZNd-VPkuKqpdxxOqMNoNwklPLJwjHzX9yIBYV4XfAIK-CUbV_2k0V87HERBNHgNDSIgeEHr3Nh-fyyM"
+    },
+    {
+      "id":7,
+      "name_skin":"Hemsy Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/7_knight_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/gBW95_lRVtZAWG47iVXf2O7b9IIdr99hz54QY4jST3ga_uTxVP59tOzmcPbjiWNo1b66GbzcnSjDeShuXbmL0T0"
+    },
+    {
+      "id":8,
+      "name_skin":"Knight Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/8_hulk_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/xApYGpbh8Qszogt99NBy1nNpOuUUIksXUHtV_2y8wIRpMJaZ6c3_KyDFWeudKiLosQc-plhFaxf23wL5U9N1"
+    },
+    {
+      "id":9,
+      "name_skin":"Hulk Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/9_hero_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/vwC9f6A1JdZgyMfog8e61b5zcm9MAtVrE0ao1ADdl2opGC_7EQ9EHGRZspCKfaCqvd2pIfvokzXkc9qUhLis"
+    },
+    {
+      "id":10,
+      "name_skin":"Hero Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/10_golam_stine.png",
+      "view_skin":"https://lh3.googleusercontent.com/5sdPNIOucZp1s83FG7tch37DEmsVSeNY85TjsdVFkLfna5WZj7wgNGjkdO8tzWfLbaop1uRde6wi14q0JdrC"
+    },
+    {
+      "id":11,
+      "name_skin":"Golem Stine",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/11_garding_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/wvweihNYhV8v5VOPoy-l-4wxZY21rVWV6e5tEYQQvycCsfXe7eEqdb66B5S52YYSB46QW4SM63HyO-UstKtUtg"
+    },
+    {
+      "id":12,
+      "name_skin":"Garding Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/12_snow_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/KV7Au3RlBYUorW7_KRrs6UYvNxfhJGC3CmkITGwTlATbcSejXPqQWULsFnewOJGC_uQngVgTROn8Vx5xDic1XV0"
+    },
+    {
+      "id":13,
+      "name_skin":"Snow Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/13_black_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/maFKY4zonpgmCcncVyv3Nd2xVGT5AmLkkz4-sS29QgjIFLK2hNGAJ3x3Pec_vvgi5Dpw9MKqxagQh4XDG9nYLwg"
+    },
+    {
+      "id":14,
+      "name_skin":"Black Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/14_blacf_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/kKsf-cL1c5Pk_FHioFW2e5PAFRZhs7usqyBQHWjLrFv4IhTERv2o0BmcuucldY17CWBN_L49kt2yTws6jJwbryM"
+    },
+    {
+      "id":15,
+      "name_skin":"Blacf Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/15_ender_golam_vires.png",
+      "view_skin":"https://lh3.googleusercontent.com/G3iMpTj6dhnMUpsQc20PFdAh170MUDeBWu2XP148nrUmCNxRc0OcuFUDOUW_Laptg_O3OLxr6maGJDXrbHTWi_0"
+    },
+    {
+      "id":16,
+      "name_skin":"Ender Golem Vires",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/16_evil_snow_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/LkI2iozgWaSOtQzVcUzOkiPhI3IgaIqcGu3iJNQ6NA4ZHisLmArxgLI26MwuqRzwMQWkf1ERjTF4a9CP4Cha4A"
+    },
+    {
+      "id":17,
+      "name_skin":"Enderman Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/17_ninja_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/BlGWbjTjsdhY6Riu7aAj5DVLGSyMp1x6aYDn9KbC8_rIOdARxaFg6vW0S7wMrbv4xIqWIvYD8xeKwdwKZI_8"
+    },
+    {
+      "id":18,
+      "name_skin":"Evil Snow Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/18_ender_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/SdXL_PGBMA4AiY2aYuKAza_XbM99KshwaLv6r4BoDDErN7xd2hJ3dM-U0MqVePQgxuJgO0jyuDhoHba8Z-Ly-Q"
+    },
+    {
+      "id":19,
+      "name_skin":"Ninja Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/19_enderman_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/JbudDzZh_h6C6YI-hMSk8fRHSuAuvs5B9Z_oLw3ZAeyUuv7KBdMisvCWCMQ0Dsz4jkpHQ7Mrv2I468PMFfEB5Q"
+    },
+    {
+      "id":20,
+      "name_skin":"Ender Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/20_ging_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/hv0bAx60PM3ulYwYsZxPQYWF3vKyqQs5MOBxuAJXhy_ODBqdpR9awRsyahZQn-mFXvfKDMtgQ8mJc1K4NY6nhw"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":0,
+      "name_add":"Laser Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Number Blocks",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"The Imposter",
+      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Furniture",
+      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Actual Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chickens",
+      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubicals Tower",
+      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":7,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":8,
+      "name_map":"Lucky Blocks Race",
+      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":9,
+      "name_map":"Sky Wars",
+      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":10,
+      "name_map":"Zombie slayer",
+      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
