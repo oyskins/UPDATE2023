@@ -1,0 +1,368 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+  {
+    "id":1,
+    "name_skin":"Hacker Super Skin",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-super-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/k88UwdYK_HJys9oPhhlQo3DeHiQvvqDUhW1cKxYdjaD-AoVRfhY6IzmzsRZKqggSSTUypWjI_6HkvcPhL3mS4Q"
+  },
+  {
+    "id":2,
+    "name_skin":"Rainbow Hacker 356",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/rainbow-hacker-356.png",
+    "view_skin":"https://lh3.googleusercontent.com/LppmHOxVYtpFHi9jK8CpmIJQ9cGg7WN0qok-Dlh0I6thfLo1o7eg6kIEI03IjtklvdFyMF2skn6czZ__X_ZekQ"
+  },
+  {
+    "id":3,
+    "name_skin":"Hacker Sword",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-sword.png",
+    "view_skin":"https://lh3.googleusercontent.com/WLjx7qq2rOQZhIePD6lWEzK1gNwR4DU3EuNZxoPw2xw_hp8kE7WaQqyCr8BMLSxyDadjSaGu_X6Aqbb7cYCo"
+  },
+  {
+    "id":4,
+    "name_skin":"Hielo hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hielo-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/OxXqF21sODZGojTZbRmir-9SWFM0l2J3V3E1ONAV3p5h2XX3PAsa2AN9gKuJA54wxyqzhm3_gBOguteENMZQx6M"
+  },
+  {
+    "id":5,
+    "name_skin":"Hacker Girl",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/cAlVZKB53zdgWdHCF2rKb33hTbyV2iAnwap_2CmLuR_uPrNEWCjYU0dwJOeGgx94IuDG796NEJ_UDsXdUjgV"
+  },
+  {
+    "id":6,
+    "name_skin":"Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/is-r6E6587FJS-N8TmIpdqbwDAa4FsQGS8-sVNd0jZn7Zlbr8Ll3nKhPQGJsJ9EXMY92x0dFeSdX4FantR1ioQ"
+  },
+  {
+    "id":7,
+    "name_skin":"noob vs Pro Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/noob-pro-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/d5ZBxSpb9mTrhBEFJcm9SsQjPnDAWV_ICZFWXOuUEEQBhP0Z35E2ZOSD2B9m3Zw-FXB3Z6L1M6BiyBkYpuAH1w"
+  },
+  {
+    "id":8,
+    "name_skin":"Thiaguinho Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/thiaguinho-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/vIbaNQIC3XRyZctqnrQepsBzsUQ3GnSU3eify_CoRyJREJ3zNXmsgAyXy1c66obFRA14c5wbMILsKAF_7mduKg"
+  },
+  {
+    "id":9,
+    "name_skin":"Hacker By Mc Jams",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-by-mc-jams.png",
+    "view_skin":"https://lh3.googleusercontent.com/CDZyClBn3DjGDz1B74r1ufEIAi5S7Cqk8fz4wKup9mLrBiwzwrfX6MC2VwuOMmGqRf8u1FoSSBV-t7ehdsf0-Q"
+  },
+  {
+    "id":10,
+    "name_skin":"Hacker Indonesia",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-indonesia.png",
+    "view_skin":"https://lh3.googleusercontent.com/k_ezY8QTLEzw1IxB-YrAhaefbOjW2s1RbU7C6pMIrn_4EPTaLP8LejxfQAp5T0Qf6yu7X1bc3soyZB14PjF-hQ"
+  },
+  {
+    "id":11,
+    "name_skin":"Red Hacker Sword",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/red-hacker-sword.png",
+    "view_skin":"https://lh3.googleusercontent.com/e7oFOsCXbi-Bv3HGCQAs26lEstNplUv4O7-bcY_QdAfyWPUa7SL5nx_x2EjBpxPMmDkSsYRUoUB0vLS_UmS5Yg"
+  },
+  {
+    "id":12,
+    "name_skin":"Rainbow God Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/rainbow-god-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/bRKPHbsf-CK1c_p4boAVt9OtJ-JPTULpWEwWgj0OWx0xloebpOrU8tarlpdw-KYSPCstgU9buLx5ZGkiGeVf"
+  },
+  {
+    "id":13,
+    "name_skin":"Hacker Hunter Pro",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-hunter-pro.png",
+    "view_skin":"https://lh3.googleusercontent.com/GogXOwREdE7PEnovEQVS_Ii6adCDW7yVyO8JBbGmDcGNMYZYeKEQfeEEpeBkTPGAflmmludr6O3KaF8pPp1faA"
+  },
+  {
+    "id":14,
+    "name_skin":"Hacker 1",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-1.png",
+    "view_skin":"https://lh3.googleusercontent.com/OKE8w5Ti7QZDO3Wp4zntlhxUZ7319-8dicBWc2eJYOkFsc4XraxOpqd88ohrpnppML0tOhvwNLYnIYMmyLYyvA"
+  },
+  {
+    "id":15,
+    "name_skin":"op Legendary Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/op-legendary-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/9GXqgXKquMIv0RBpOOv5kvsUB0A8dXvLJ2VTBsM1LrbNKgWIW3f7tF-w9nFNN4P5gvf_kyllx_ponOYfTp87Gw"
+  },
+  {	
+	 "id":16,
+    "name_skin":"Hacker 2",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-2.png",
+    "view_skin":"https://lh3.googleusercontent.com/s_ZqxaiggVR6Z8Y-9vmifpzlM1Z5vAaD8rbV6Kyg3J4z5u2Dzczn2Ix2Alo6ro06vbcA1dmpDS6qLPDAmMFamzQ"
+  },
+  {
+    "id":17,
+    "name_skin":"Trolerotutos Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/trolerotutos-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/RLRmLmGZxyIuOMW9Mk2lntcnLUwEQz5N7CEld3R827vXOajlLZYkx8ZH76zF5SoWJZxatXA5eBlWsHd_ReDKu0E"
+  },
+  {
+    "id":18,
+    "name_skin":"Sr.Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/Sr-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/SY6QVI1rtCM7GJjynZwRA5P_05yQMND7dSRabEas4zjcuc-bQ3Q-R1E8-_lO6tuP6brfBaRCtf8BHKmDffhZ"
+  },
+  {
+    "id":19,
+    "name_skin":"Hacker White",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-white.png",
+    "view_skin":"https://lh3.googleusercontent.com/0pCxE1s5mAzCzmVJTDl650ILlt7lnH4yxASmcfo9UVYNDz1xn1m3jtTXselczFlvL5oPkOLMo4Lh1GgmY3HrpA"
+  },
+  {
+    "id":20,
+    "name_skin":"Max Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/max-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/zHnG_j5lIDzaURa9OXAniQbIKdmXsC86mfjOULr3QqSwv8GfNvgv-GUAzOzGFYqZMeaUU8aL-0YcwN-ck8XVKYM"
+  },
+  {
+    "id":21,
+    "name_skin":"Hacker ter Girl Wolf",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-ter-girl.png",
+    "view_skin":"https://lh3.googleusercontent.com/kIcVm8KDeqstsnrKrCBXzzFJ4CIkkLcUvxiBbZQEiu9RS7JwSUKoizXJZLDvHqeHZiqpVbBcIGqtm0sXfx9H688"
+  },
+  {
+    "id":22,
+    "name_skin":"Green Cyber Hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/green-cyber-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/Kr7ccoP2uQATWc1G3Ch5llBWkxZPEDG2H7ALvazeYk1eQVC3H-p0hf0C13hOcpjq1D3oosfG-47R4trdEuuVvhQ"
+  },
+  {
+    "id":23,
+    "name_skin":"Hacker Halo 5",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-halo-5.png",
+    "view_skin":"https://lh3.googleusercontent.com/qrRkE_2YxTvZ9VwgV3sQJXc2ZPzS_E70UIZz09EbqHnawRhOBJA_oXVK-kO73D4kNRZm0bhimtRmFOFtr6lfQA"
+  },
+  {
+    "id":24,
+    "name_skin":"Error Hacker Skin",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/error-hacker-skin.png",
+    "view_skin":"https://lh3.googleusercontent.com/apKDJsLWSvlX8A-wamUgOYclRKZ5GCZJ5LSwjL_MHaajj_s-kdtvdtUABGVsRS8plUlb-F4QUyzJxJPcwWbX4sk"
+  },
+  {
+    "id":25,
+    "name_skin":"Dragon Hacker Hack's Powerd",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/dragon-hacker-hack.png",
+    "view_skin":"https://lh3.googleusercontent.com/Q3ZkcNFYwbmdJRzzlU3ncTalyonRJXMONklfM1SzdlcEVXobL2EfaplTmpeS8vrjiJOrYr9P6T-eq4se-Uz_"
+  },
+  {
+    "id":26,
+    "name_skin":"Capa Super Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/capa-super-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/i0QHs--d0TL1wcuf3YWVtmN3VSJ15TPs1J8A4lCaDAzDkUqrtwGH4g0ygX8RrU-LKMn532SxuRkNMSUggxWd6Q"
+  },
+  {
+    "id":27,
+    "name_skin":"Master Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/master-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/xG-6WbjBzD_QFl5juZCDihNMzB736N01XOC0OpF86EkeHKHncWCDKMijWY8vbR3CB0pYq6D7sg2bCq2DMyZmGA"
+  },
+  {
+    "id":28,
+    "name_skin":"Diamond Freedy Hacker",
+    "skin_url":"https://ia601502.us.archive.org/31/items/green-cyber-hacker/hacker/diamond-freedy-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/I23DY0Wj43EAYDnM7zEYBrXlEgbkBWBF9AjLH8x7FFQ-ZrRQzLy4N_51-jyVU4RNxqhvT8tIjhhynAhbzMNtQ48"
+  },
+  {
+    "id":29,
+    "name_skin":"mikecraft Hacker",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/mikecraft-hacker.png",
+    "view_skin":"https://lh3.googleusercontent.com/ZvZQ1K-vqiKcw-jmbrzh0Pw15Jq26uDCKYZmkSRQDw0yejerpvdGbCcypI7zph0q2b1IdAX0KJO281IlBHSLaQ"
+  },
+  {
+    "id":30,
+    "name_skin":"Hacker Glitched",
+    "skin_url":"https://ia801502.us.archive.org/31/items/green-cyber-hacker/hacker/hacker-glitched.png",
+    "view_skin":"https://lh3.googleusercontent.com/1A6EqyHUQeAZLEhs-67KCL46NAVF_xK6QUgu36XGp4FyxeAWdZQ2tRVbJUp3rxvS4SKCVPfGem09FeO28mnxdQ"
+  }
+  ],
+  "Addons":
+  [
+    {
+      "id":0,
+      "name_add":"Laser Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Number Blocks",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"The Imposter",
+      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Furniture",
+      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":0,
+      "name_add":"Actual Guns",
+      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chickens",
+      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubicals Tower",
+      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":7,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":8,
+      "name_map":"Lucky Blocks Race",
+      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":9,
+      "name_map":"Sky Wars",
+      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":10,
+      "name_map":"Zombie slayer",
+      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
